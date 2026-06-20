@@ -79,9 +79,9 @@ function App(){
         )} <br />
         <div className="container">
          <p>
-          NAME: PRIYANSHU KUMAR <br />
-          ROLL.NO: 2503201000871 <br />
-          SECTION: CSE 26 <br />
+          NAME: RADHEY SHYAM LODHI <br />
+          ROLL.NO: 2503201000883 <br />
+          SECTION: CSE 23 <br />
          </p>
         </div>
     </div>
